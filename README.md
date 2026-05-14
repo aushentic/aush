@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/aushentic/uh/blob/ba1c38cf962c380d9f842ce928cc5b6cac987c64/8c3c1e2e54581b420df26181ac8a32d7.gif" width="100%">
+  <img src="https://github.com/aushentic/hehe/blob/ad85a7ddda14c5e0a2fb9c03da67126b0cf31b07/8c3c1e2e54581b420df26181ac8a32d7.gif" width="100%">
 </p>
 
 ✧･ﾟ: *✧･ﾟ:*
