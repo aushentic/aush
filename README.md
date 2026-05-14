@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/aushentic/uh/blob/ba1c38cf962c380d9f842ce928cc5b6cac987c64/8c3c1e2e54581b420df26181ac8a32d7.gif" width="100%">
+</p>
+
+<p align="center">
   <i>"“The loneliest feeling is realizing you stopped telling people how you really feel.”</i>
 </p>
 
