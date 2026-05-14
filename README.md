@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/aushentic/test/blob/4c70224c803e79a11e2d04ac059d6f26c4ba9f34/8b57bf2876ea53e2c3dde718fee161a5.jpg" width="100%">
-</p>
+
 
 <p align="center">
   <i>"“The loneliest feeling is realizing you stopped telling people how you really feel.”</i>
